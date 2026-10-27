@@ -1,1 +1,11 @@
-
+customer_id,name,email,age,city
+101,John Smith,JOHN@example.com,28,New York
+102,Sarah Jones,sarah@gmail,200,Chicago
+103,Michael Brown,michael@example.com,35,Boston
+104,Emily Davis,,29,New York
+105,John Smith,JOHN@example.com,28,New York
+106,David Wilson,david@example.com,32,
+107,Lisa Taylor,lisa@example.com,-5,Seattle
+108,Robert Miller,robert@example.com,41,Chicago
+109,Anna White,anna@example.com,27,Boston
+110,James Clark,james@example.com,,
